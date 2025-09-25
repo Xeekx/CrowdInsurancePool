@@ -222,4 +222,3 @@ Example test cases to implement:
 - No pagination or enumeration of pools; consumer must track ids.
 
 
-Specify your project’s license here (e.g., MIT).
